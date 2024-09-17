@@ -38,6 +38,7 @@ Discuss potential factors: Consider any external factors that might influence th
 •	Deliverables: Visual and statistical reports showing key patterns and correlations in the dataset over the time 
 
 Figure 1
+![F 1](https://github.com/user-attachments/assets/9f2d3761-5353-41ed-9e5f-2927aa445f2d)
 
 Figure 2- 
 
