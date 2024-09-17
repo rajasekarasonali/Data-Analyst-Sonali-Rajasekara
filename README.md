@@ -1,5 +1,6 @@
 # Data-Analyst-Sonali-Rajasekara
-Water Quality project
+Project 1- Water Quality project
+
 1. Exploratory Data Analysis (EDA)
 
 •	Project Description: Exploring and understanding the underlying patterns in water quality data pertaining to Vancouver City collected from various sensors.
@@ -210,6 +211,248 @@ Figure 23
 Figure 24
 
 Figure 25
+
+..........................................................................
+
+Project 2- UCW project for HR departments (Professional development )
+
+1. Exploratory Data Analysis
+   
+•	Project Description:
+This analysis investigates the trends and characteristics of professional development approvals and reimbursements at University Canada West in 2024. 
+
+•	Project Title:
+Exploratory Analysis of Professional Development Approvals and Reimbursements for 2024 at UCW
+
+•	Objective:
+To explore the distribution and trends of professional development approvals and reimbursements and identify any significant patterns in the dataset.
+
+•	Dataset:
+Professional Development approvals and reimbursement data from the UCW HR office for the year 2024.(Figure a) 
+
+•	Methodology:
+
+Step 1:Forming question /metric of interest,   and Data Preparation
+The metric /question of interest is the Percentage of Approvals done for 2024 in professional development domain
+Inspect the data: Review the dataset to ensure that data are recorded properly and no fields are missing.
+Handle missing data: If there are any missing values decide on a method to handle them (e.g., removing rows, imputing with averages).
+Convert units (if necessary)
+
+Step 2: Calculate Percentage of Approvals for Professional development data (Figure 4, Figure 4.1  )
+Group data by year: Group the dataset based on the year column.
+Calculate percentage of Approvals: For each year 
+
+Step 3: Visualize the Metric (Figure 1, Figure 2) 
+Create a line chart to investigate the trends in Approval rate over time. 
+
+Step 4: Statistical Analysis 
+Examining the statistical significance  of the trend of percentage Approvals. 
+
+Step 5: Interpret Results
+Review and interpret the yearly trends of Approval rates 
+Discuss potential factors: Consider any external factors that might influence the identified behavior. 
+
+•	Tools and Technologies:
+Python Library -pandas, Numpy, Visualization libraries like matplotlib, seaborn, Line charts ,  Statistical significance tests. AWS Glue 
+
+•	Deliverables:
+Data visualizations showing trends in approvals and reimbursements
+Summary report identifying key patterns in the data
+
+Figure a
+
+Figure 1
+
+Figure 2- 
+
+Figure 4 
+
+Figure 4.1
+ 
+
+2. Descriptive Analysis
+
+•	Project Description:
+This analysis summarizes the approval and reimbursement data, focusing on central tendencies, variations, and frequency of professional development activities undertaken by staff members of UCW.
+
+•	Project Title:
+Descriptive Summary of UCW Professional Development Approvals and Reimbursements for UCW Staff
+
+•	Objective:
+To describe the total number of professional development activities approved, total reimbursements made, and their distribution across various staff roles and departments.
+
+•	Dataset:
+Professional Development approvals and reimbursement data from UCW HR for years 2023 and 2024 .
+
+•	Methodology:
+
+Step 1- Data Storage: 
+The data was first stored in AWS S3 (Figure 5, Figure 5.1), providing a secure and scalable storage solution.
+
+Step 2- Data Visualization:
+AWS QuickSight was intended for data visualization, but due to access limitations, Excel was used for visualization 
+
+Step 3- Internal Publishing: 
+The data visualization was published on a general server for internal users (Figure 8 ), allowing restricted access to the organization using a Windows remote desktop
+
+Step 4- Public Publishing:
+ Finally, the visualization was made accessible to the public using a web server hosted on AWS EC2 (Figure 9, 10 ), ensuring broader accessibility.
+
+•	Tools and Technologies: AES S3, AWS Glue, AWS QuickSight for visualizations, Excel,  AWS EC2, Windows remote desktop. (Figure 11) 
+
+•	Deliverables:
+A detailed report containing summary statistics
+Visual dashboards showcasing the breakdown of reimbursements and approvals
+
+Figure 5
+
+Figure 5.1
+
+Figure 8
+
+Figure 9
+
+Figure 10
+
+Figure 11
+
+3. Diagnostic Analysis
+
+•	Project Description:
+A diagnostic analysis was conducted to identify the reasons behind changes or anomalies in professional development approvals and reimbursements in 2024, focusing on identifying potential causes for the observed data trends.
+
+•	Project Title:
+Diagnostic Analysis of Reimbursement Variations for UCW Staff
+
+•	Objective:
+To investigate the factors contributing to significant increases or decreases in professional development reimbursements across departments.
+
+•	Dataset:
+Professional Development approvals and reimbursement data from UCW HR for for years 2023 and 2024 .
+
+•	Methodology:
+
+Step 1- Data Ingestion: 
+The data ingestion process involves transferring data from an operational environment to an analytical environment by uploading it to landing folders within Amazon S3. The "Standard" storage class is chosen for its cost-effectiveness and ability to handle frequent daily access, ensuring both performance and reliability.(Figure 12) 
+
+Step 2- Data Validation: 
+Validate the ingested data to ensure its completeness and accuracy by Conducting rule engine checks to identify any missing values or incorrect data entries using AWS Databrew and AWS Glue to clean, transform, and prepare the data for further analysis. (Figure 13, 14, 17)
+
+Step 3 - Anomaly detection:
+Detect anomalies or irregularities in the dataset that could indicate errors or issues by applying anomaly detection techniques to explore patterns, check for outliers, and identify inconsistencies in the water quality dataset.
+
+Step 4 -Root Course Analysis:
+Identify the underlying reasons for missing or incomplete data by Investigating data pipelines, the operational environment’s data collection processes, and external factors that may have led to missing or inconsistent data entries.
+
+Step 5 -Reporting and Recommendations:
+Document the findings and provide actionable insights by generating detailed reports summarizing the causes of data inconsistencies and offering recommendations to prevent future issues
+
+•	Tools and Technologies: AWS Glue,AWS Glue Logs,  AWS S3, AWS CloudWatch AWS Cloudwatch Logs, Data Lineage tracing. 
+
+•	Deliverables:
+Root cause analysis report on reimbursement rate variations
+Recommendations for improving approval consistency
+
+•	Timeline: 2 week to investigate, followed by a week for reporting.
+
+Figure 12
+
+Figure 13
+
+Figure 14
+
+Figure 17
+
+4. Data Wrangling
+   
+•	Project Description:
+The data wrangling phase focused on preparing and cleaning the professional development approval and reimbursement data, ensuring it was suitable for analysis.
+
+•	Project Title:
+Data Wrangling for UCW Professional Development Approvals and Reimbursements Analysis
+
+•	Objective:
+To clean and organize professional development data, ensuring completeness, accuracy, and proper formatting for further analysis.
+
+•	Dataset:
+Professional Development approval and reimbursement data for latest years, containing information on employee IDs, departments, activities, and financial reimbursements.
+
+•	Methodology:
+
+Step 1- Data Ingestion: 
+The data ingestion process involves transferring data from an operational environment to an analytical environment by uploading it to landing folders within Amazon S3. The "Standard" storage class is chosen for its cost-effectiveness and ability to handle frequent daily access, ensuring both performance and reliability. (Figure 18) 
+
+Step 2- Data Cleaning
+Using AWS DataBrew, missing rows for "Year," “Total Applications received,”  and "Number of Applications Approved" was deleted to ensure data quality.(Figure 19, Figure 21)
+
+Step 3- Data Structuring 
+Additional structuring was performed with AWS DataBrew. Columns were renamed to match analysis objectives, and the "System report date" column was changed to a date format. The year was extracted from this column to focus on yearly metrics, optimizing the dataset for further analysis.( Figure 21) 
+
+Step 4- Storing Cleaned data in Raw folders 
+This refinement process resulted in a cleaner, more reliable dataset, properly organized and ready for further analysis or processing and this data was stored in Raw folder.
+
+•	Tools and Technologies:
+AWS Glue, AWS DataBrew.
+
+•	Deliverables:
+Cleaned dataset ready for analysis stored in Raw zone
+Documentation of data wrangling steps and decisions
+
+•	Timeline: 2 weeks, including validation and final clean data delivery.
+
+Figure 18
+
+Figure 19 
+
+Figure 20
+
+Figure 21
+
+5. Data Quality Control
+
+•	Project Description:
+This analysis ensures the data used for the project meets required quality standards, focusing on completeness, accuracy, and consistency.
+
+•	Project Title:
+Data Quality Control for UCW Professional Development Approvals and Reimbursements
+
+•	Objective:
+To ensure that the professional development approval and reimbursement data is complete, accurate, and consistent.
+
+•	Dataset:
+Professional Development approval and reimbursement data for latest years, containing information on employee IDs, departments, activities, and financial reimbursements.
+
+•	Methodology:
+
+Step 1: Data Governance Setup
+Establish a framework for managing data quality and privacy. AWS Glue Studio is used as the ETL service. A "Trusted Zone" is created in Amazon S3 after the "Curated Zone" to store data that meets data quality and privacy rules. Figure (22) 
+
+Step 2: Data Quality Rule Definition
+Set data quality standards by defining custom rules in the rule engine to check for completeness, freshness, and uniqueness in the data. In this case, only the completeness rule is applied for the following columns (Figure23) 
+"year" > 0.95: Checks if more than 95% of values in the "year" column are non-null.
+"employee_Job title" > 0.95: Checks if more than 95% of values in the "temperature" column are non-null.
+
+Step 3: Data Quality Check
+Evaluate the dataset for completeness using AWS Glue Studio which applies the rules defined in Step 2 to assess the completeness of key columns. Freshness and uniqueness checks are not performed for this dataset.
+
+Step 4: Separating Data Based on Quality
+Data that passes both the privacy and quality checks is saved in a Trusted Zone within an S3 bucket, while data that fails is saved separately for further review. (Figure 23) 
+
+Step 5: ETL Job Execution and Scheduling
+Run the data governance job using AWS Glue 
+
+•	Deliverables:
+A final quality report, ensuring the data met the standards for completeness, accuracy, and consistency
+
+•	Timeline:
+The data quality process was completed over two weeks, ensuring minimal disruption to the overall analysis.
+
+Figure 22
+
+Figure 23
+
+
+
  
 
 
