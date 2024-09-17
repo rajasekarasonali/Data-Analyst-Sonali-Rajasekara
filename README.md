@@ -1,5 +1,5 @@
 # Data-Analyst-Sonali-Rajasekara
-Project 1- Water Quality project
+##Project 1- Water Quality project
 
 
 1. Exploratory Data Analysis (EDA)
