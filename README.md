@@ -1,18 +1,23 @@
 # Data-Analyst-Sonali-Rajasekara
-##Project 1- Water Quality project
+## Project 1- Water Quality project
 
 
-1. Exploratory Data Analysis (EDA)
+### 1. Exploratory Data Analysis (EDA)
 
-•	Project Description: Exploring and understanding the underlying patterns in water quality data pertaining to Vancouver City collected from various sensors.
+#### •	Project Description
+Exploring and understanding the underlying patterns in water quality data pertaining to Vancouver City collected from various sensors.
 
-•	Project Title: Exploratory Analysis of Water Quality Data
+#### •	Project Title
+Exploratory Analysis of Water Quality Data
 
-•	Objective: To explore the data for general trends, patterns, and missing values, providing an initial understanding of key attributes like temperature and turbidity so that Vancouver City and health authorities can respond more effectively to incidents, mitigate health risks.
+#### •	Objective
+To explore the data for general trends, patterns, and missing values, providing an initial understanding of key attributes like temperature and turbidity so that Vancouver City and health authorities can respond more effectively to incidents, mitigate health risks.
 
-•	Dataset: This dataset contains all operating permits issued from the inception of the operating permit program to present, 2019-present. It also contains a full historical record of water quality reports. Water quality data with attributes like temperature, turbidity, and year was collected from https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/information/.
+#### •	Dataset
+This dataset contains all operating permits issued from the inception of the operating permit program to present, 2019-present. It also contains a full historical record of water quality reports. Water quality data with attributes like temperature, turbidity, and year was collected from https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/information/.
 
-•	Methodology: Summary statistics, relationship among variables were observed using the analysis tab of https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6InR1cmJpZGl0eSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJzeXN0ZW1fcmVwb3J0X2RhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJ5ZWFyIiwic29ydCI6IiIsInNlcmllc0JyZWFrZG93biI6Im1lY2hhbmljYWxfc3lzdGVtX3R5cGUiLCJjb25maWciOnsiZGF0YXNldCI6Im9wZXJhdGluZy1wZXJtaXRzLXdhdGVyLXN5c3RlbXMtd2F0ZXItcXVhbGl0eS1yZXBvcnRzIiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9. 
+#### •	Methodology
+Summary statistics, relationship among variables were observed using the analysis tab of https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJiYXIiLCJmdW5jIjoiQ09VTlQiLCJ5QXhpcyI6InR1cmJpZGl0eSIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6InJhbmdlLWN1c3RvbSJ9XSwieEF4aXMiOiJzeXN0ZW1fcmVwb3J0X2RhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJ5ZWFyIiwic29ydCI6IiIsInNlcmllc0JyZWFrZG93biI6Im1lY2hhbmljYWxfc3lzdGVtX3R5cGUiLCJjb25maWciOnsiZGF0YXNldCI6Im9wZXJhdGluZy1wZXJtaXRzLXdhdGVyLXN5c3RlbXMtd2F0ZXItcXVhbGl0eS1yZXBvcnRzIiwib3B0aW9ucyI6e319fV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9. 
 
 Step 1:Forming question /metric of interest,   and Data Preparation
 The metric /question of interest is the Relationship between average turbidity with Temperature over the time.
@@ -34,9 +39,11 @@ Step 5: Interpret Results
 Review correlation and regression outcomes: Based on the analysis (correlation and regression), interpret whether temperature significantly impacts turbidity.
 Discuss potential factors: Consider any external factors that might influence the relationship between turbidity and temperature (e.g., seasonal variations and system maintenance).
 
-•	Tools and Technologies: Python Library -pandas, Numpy, Visualization libraries like matplotlib, seaborn, Correlation metrics using corre() ,  Statistical significance tests. AWS Glue 
+#### •	Tools and Technologies
+Python Library -pandas, Numpy, Visualization libraries like matplotlib, seaborn, Correlation metrics using corre() ,  Statistical significance tests. AWS Glue 
 
-•	Deliverables: Visual and statistical reports showing key patterns and correlations in the dataset over the time 
+#### •	Deliverables
+Visual and statistical reports showing key patterns and correlations in the dataset over the time 
 
 Figure 1
 ![F 1](https://github.com/user-attachments/assets/9f2d3761-5353-41ed-9e5f-2927aa445f2d)
@@ -54,17 +61,21 @@ Figure 4.1
 ![F 4 1](https://github.com/user-attachments/assets/af1c2e00-f87b-4fe9-9aca-3be4e8f228f7)
 
 
-2. Descriptive Analysis
+### 2. Descriptive Analysis
 
-•	Project Description: Exploring and understanding the underlying patterns in water quality data pertaining to Vancouver City collected from various sensors.
+#### •	Project Description
+Exploring and understanding the underlying patterns in water quality data pertaining to Vancouver City collected from various sensors.
 
-•	Project Title: Exploratory Analysis of Water Quality Data
+#### •	Project Title
+Exploratory Analysis of Water Quality Data
 
-•	Objective: To explore the data for general trends, patterns, and missing values, providing an initial understanding of key attributes like temperature and turbidity so that Vancouver City and health authorities can respond more effectively to incidents, mitigate health risks.
+#### •	Objective
+To explore the data for general trends, patterns, and missing values, providing an initial understanding of key attributes like temperature and turbidity so that Vancouver City and health authorities can respond more effectively to incidents, mitigate health risks.
 
-•	Dataset: This dataset contains all operating permits issued from the inception of the operating permit program to present, 2019-present. It also contains a full historical record of water quality reports. Water quality data with attributes like temperature, turbidity, and year was collected from https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/information/.
+#### •	Dataset
+This dataset contains all operating permits issued from the inception of the operating permit program to present, 2019-present. It also contains a full historical record of water quality reports. Water quality data with attributes like temperature, turbidity, and year was collected from https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/information/.
 
-•	Methodology: 
+#### •	Methodology: 
 
 Step 1- Data Storage: 
 The data was first stored in AWS S3 (Figure 5), providing a secure and scalable storage solution.
@@ -78,9 +89,11 @@ The data visualization was published on a general server for internal users (Fig
 Step 4- Public Publishing:
  Finally, the visualization was made accessible to the public using a web server hosted on AWS EC2 (Figure 9, 10 ), ensuring broader accessibility.
 
-•	Tools and Technologies: AES S3, AWS Glue, AWS QuickSight for visualizations, Excel,  AWS EC2, Windows remote desktop. (Figure 11) 
+#### •	Tools and Technologies
+AES S3, AWS Glue, AWS QuickSight for visualizations, Excel,  AWS EC2, Windows remote desktop. (Figure 11) 
 
-•	Deliverables: Summary tables, charts representing the average and range of water quality variables.
+#### •	Deliverables
+Summary tables, charts representing the average and range of water quality variables.
 
 Figure 5
 ![F 5](https://github.com/user-attachments/assets/99e77062-9469-400c-aa38-41a8534fee48)
@@ -105,17 +118,22 @@ Figure 11
 ![F 11](https://github.com/user-attachments/assets/226f8587-60a3-47f8-8822-4c4f9fe39086)
 
  
-3. Diagnostic Analysis
+### 3. Diagnostic Analysis
 
-• Project Description: Diagnostic analysis to identify the reasons for missing or incomplete data in the water quality dataset pertaining to Vancouver City collected from various sensors 
+#### • Project Description
+Diagnostic analysis to identify the reasons for missing or incomplete data in the water quality dataset pertaining to Vancouver City collected from various sensors 
 
-• Project Title: Diagnostic Analysis of Incomplete Water Quality Data
+#### • Project Title
+Diagnostic Analysis of Incomplete Water Quality Data
 
-•	Objective: To investigate and identify the causes of missing values and inconsistencies in the water quality data.
+#### •	Objective
+To investigate and identify the causes of missing values and inconsistencies in the water quality data.
 
-•	Dataset: This dataset contains all operating permits issued from the inception of the operating permit program to present, 2019-present. It also contains a full historical record of water quality reports. Water quality data with attributes like temperature, turbidity, and year was collected from https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/information/. 
+#### •	Dataset
+This dataset contains all operating permits issued from the inception of the operating permit program to present, 2019-present. It also contains a full historical record of water quality reports. Water quality data with attributes like temperature, turbidity, and year was collected from https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/information/. 
 
-•	Methodology: Anomaly detection methods, data validation, and rule engine checks.
+#### •	Methodology
+Anomaly detection methods, data validation, and rule engine checks.
 
 Step 1- Data Ingestion: 
 The data ingestion process for 2024 involves transferring data from an operational environment to an analytical environment by uploading it to landing folders within Amazon S3. The "Standard" storage class is chosen for its cost-effectiveness and ability to handle frequent daily access, ensuring both performance and reliability.(Figure 12) 
@@ -132,11 +150,14 @@ Identify the underlying reasons for missing or incomplete data by Investigate da
 Step 5 -Reporting and Recommendations:
 Document the findings and provide actionable insights by generating detailed reports summarizing the causes of data inconsistencies and offering recommendations to prevent future issues
 
-•	Tools and Technologies: AWS Glue,AWS Glue Logs,  AWS S3, AWS CloudWatch AWS Cloudwatch Logs, Data Lineage tracing. 
+#### •	Tools and Technologies
+AWS Glue,AWS Glue Logs,  AWS S3, AWS CloudWatch AWS Cloudwatch Logs, Data Lineage tracing. 
 
-•	Deliverables: Detailed reports on the cause of data inconsistencies and recommendations to address these issues.
+#### •	Deliverables
+Detailed reports on the cause of data inconsistencies and recommendations to address these issues.
 
-•	Timeline: 1 week to investigate, followed by a week for reporting.
+#### •	Timeline
+1 week to investigate, followed by a week for reporting.
 
 Figure 12
 ![F 12](https://github.com/user-attachments/assets/98e627ee-94fb-4f7e-8607-d287a2a79fad)
@@ -157,17 +178,21 @@ Figure 17
 ![F 17](https://github.com/user-attachments/assets/5a90e7e6-a251-4584-b6d3-68fcbf978ba7)
 
  
-4. Data Wrangling
+### 4. Data Wrangling
    
-•	Project Description: Data cleaning and preparation of water quality data for advanced analysis.
+#### •	Project Description
+Data cleaning and preparation of water quality data for advanced analysis.
 
-•	Project Title: Data Wrangling for Water Quality Data Analysis pertaining to Vancouver City collected from various sensors
+#### •	Project Title
+Data Wrangling for Water Quality Data Analysis pertaining to Vancouver City collected from various sensors
 
-•	Objective: To clean and prepare water quality data by handling missing values, reorganizing columns, and applying necessary transformations.
+#### •	Objective
+To clean and prepare water quality data by handling missing values, reorganizing columns, and applying necessary transformations.
 
-•	Dataset: This dataset contains all operating permits issued from the inception of the operating permit program to present, 2019-present. It also contains a full historical record of water quality reports. Water quality data with attributes like temperature, turbidity, and year was collected from https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/information/. 
+#### •	Dataset
+This dataset contains all operating permits issued from the inception of the operating permit program to present, 2019-present. It also contains a full historical record of water quality reports. Water quality data with attributes like temperature, turbidity, and year was collected from https://opendata.vancouver.ca/explore/dataset/operating-permits-water-systems-water-quality-reports/information/. 
 
-•	Methodology
+#### •	Methodology
 
 Step 1- Data Ingestion: 
 The data ingestion process for 2024 involves transferring data from an operational environment to an analytical environment by uploading it to landing folders within Amazon S3. The "Standard" storage class is chosen for its cost-effectiveness and ability to handle frequent daily access, ensuring both performance and reliability. (Figure 18) 
@@ -181,11 +206,14 @@ Additional structuring was performed with AWS DataBrew. Columns were renamed to 
 Step 4- Storing Cleaned data in Raw folders 
 This refinement process resulted in a cleaner, more reliable dataset, properly organized and ready for further analysis or processing and this data was stored in Raw folder.
 
-•	Tools and Technologies: AWS Glue, AWS DataBrew.
+#### •	Tools and Technologies
+AWS Glue, AWS DataBrew.
 
-•	Deliverables: A cleaned and structured dataset ready for further analysis stored in the Raw folder
+#### •	Deliverables
+A cleaned and structured dataset ready for further analysis stored in the Raw folder
 
-•	Timeline: 2 weeks, including validation and final clean data delivery.
+#### •	Timeline
+2 weeks, including validation and final clean data delivery.
 
 Figure 18
 ![F 18](https://github.com/user-attachments/assets/14892ecb-7c8a-4c18-aebe-b72281bc04a0)
@@ -201,15 +229,18 @@ Figure 21
 ![F 21](https://github.com/user-attachments/assets/2277a8be-5f90-4a48-b917-03e72cbde6af)
 
  
-5. Data Quality Control
+### 5. Data Quality Control
 
-•	Project Description: Data Quality Control to ensure data consistency and completeness of water quality data pertaining to Vancouver City .
+#### •	Project Description
+Data Quality Control to ensure data consistency and completeness of water quality data pertaining to Vancouver City .
 
-•	Project Title: Data Quality Control for Water Quality Data pertaining to Vancouver City
+#### •	Project Title
+Data Quality Control for Water Quality Data pertaining to Vancouver City
 
-•	Objective: To apply data quality rules and ensure that water quality data meets completeness and consistency requirements.
+#### •	Objective
+To apply data quality rules and ensure that water quality data meets completeness and consistency requirements.
 
-•	Methodology: 
+#### •	Methodology: 
 
 Step 1: Data Governance Setup
 Establish a framework for managing data quality and privacy. AWS Glue Studio is used as the ETL service. A "Trusted Zone" is created in Amazon S3 after the "Curated Zone" to store data that meets data quality and privacy rules. Figure (22) 
@@ -229,9 +260,11 @@ Data that passes both the privacy and quality checks is saved in a Trusted Zone 
 Step 5: ETL Job Execution and Scheduling
 Run the data governance job using AWS Glue (Figure 25) 
 
-•	Deliverables: A final dataset with 95% completeness in key attributes, ensuring quality for further analysis.
+#### •	Deliverables
+A final dataset with 95% completeness in key attributes, ensuring quality for further analysis.
 
-•	Timeline: 1 week for rule application and validation.
+#### •	Timeline
+1 week for rule application and validation.
 
 Figure 22
 
@@ -246,27 +279,26 @@ Figure 24
 Figure 25
 ![F 25](https://github.com/user-attachments/assets/560b4f60-fc20-48e2-a1c7-8fb328a665f1)
 
-...................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
 
 
-Project 2- UCW project for HR departments (Professional development )
+##Project 2- UCW project for HR departments (Professional development )
 
 
-1. Exploratory Data Analysis
+### 1. Exploratory Data Analysis
    
-•	Project Description:
+#### 	Project Description:
 This analysis investigates the trends and characteristics of professional development approvals and reimbursements at University Canada West in 2024. 
 
-•	Project Title:
+#### •	Project Title:
 Exploratory Analysis of Professional Development Approvals and Reimbursements for 2024 at UCW
 
-•	Objective:
+#### •	Objective:
 To explore the distribution and trends of professional development approvals and reimbursements and identify any significant patterns in the dataset.
 
-•	Dataset:
+#### •	Dataset:
 Professional Development approvals and reimbursement data from the UCW HR office for the year 2024.(Figure a) 
 
-•	Methodology:
+#### •	Methodology:
 
 Step 1:Forming question /metric of interest,   and Data Preparation
 The metric /question of interest is the Percentage of Approvals done for 2024 in professional development domain
@@ -288,10 +320,10 @@ Step 5: Interpret Results
 Review and interpret the yearly trends of Approval rates 
 Discuss potential factors: Consider any external factors that might influence the identified behavior. 
 
-•	Tools and Technologies:
+#### •	Tools and Technologies:
 Python Library -pandas, Numpy, Visualization libraries like matplotlib, seaborn, Line charts ,  Statistical significance tests. AWS Glue 
 
-•	Deliverables:
+#### •	Deliverables:
 Data visualizations showing trends in approvals and reimbursements
 Summary report identifying key patterns in the data
 
@@ -312,21 +344,21 @@ Figure 4.1
  ![F 4 1](https://github.com/user-attachments/assets/0d9e8d93-a779-4e23-9f0c-857ad962c9a3)
 
 
-2. Descriptive Analysis
+### 2. Descriptive Analysis
 
-•	Project Description:
+#### •	Project Description:
 This analysis summarizes the approval and reimbursement data, focusing on central tendencies, variations, and frequency of professional development activities undertaken by staff members of UCW.
 
-•	Project Title:
+#### •	Project Title:
 Descriptive Summary of UCW Professional Development Approvals and Reimbursements for UCW Staff
 
-•	Objective:
+#### •	Objective:
 To describe the total number of professional development activities approved, total reimbursements made, and their distribution across various staff roles and departments.
 
-•	Dataset:
+#### •	Dataset:
 Professional Development approvals and reimbursement data from UCW HR for years 2023 and 2024 .
 
-•	Methodology:
+#### •	Methodology:
 
 Step 1- Data Storage: 
 The data was first stored in AWS S3 (Figure 5, Figure 5.1), providing a secure and scalable storage solution.
@@ -340,9 +372,9 @@ The data visualization was published on a general server for internal users (Fig
 Step 4- Public Publishing:
  Finally, the visualization was made accessible to the public using a web server hosted on AWS EC2 (Figure 9, 10 ), ensuring broader accessibility.
 
-•	Tools and Technologies: AES S3, AWS Glue, AWS QuickSight for visualizations, Excel,  AWS EC2, Windows remote desktop. (Figure 11) 
+#### •	Tools and Technologies: AES S3, AWS Glue, AWS QuickSight for visualizations, Excel,  AWS EC2, Windows remote desktop. (Figure 11) 
 
-•	Deliverables:
+#### •	Deliverables:
 A detailed report containing summary statistics
 Visual dashboards showcasing the breakdown of reimbursements and approvals
 
@@ -366,21 +398,21 @@ Figure 11
 ![F 11](https://github.com/user-attachments/assets/736db6ed-8b07-43f0-b172-da2562f1fe9b)
 
 
-3. Diagnostic Analysis
+### 3. Diagnostic Analysis
 
-•	Project Description:
+#### •	Project Description:
 A diagnostic analysis was conducted to identify the reasons behind changes or anomalies in professional development approvals and reimbursements in 2024, focusing on identifying potential causes for the observed data trends.
 
-•	Project Title:
+#### •	Project Title:
 Diagnostic Analysis of Reimbursement Variations for UCW Staff
 
-•	Objective:
+#### •	Objective:
 To investigate the factors contributing to significant increases or decreases in professional development reimbursements across departments.
 
-•	Dataset:
+#### •	Dataset:
 Professional Development approvals and reimbursement data from UCW HR for for years 2023 and 2024 .
 
-•	Methodology:
+#### •	Methodology:
 
 Step 1- Data Ingestion: 
 The data ingestion process involves transferring data from an operational environment to an analytical environment by uploading it to landing folders within Amazon S3. The "Standard" storage class is chosen for its cost-effectiveness and ability to handle frequent daily access, ensuring both performance and reliability.(Figure 12) 
@@ -397,13 +429,13 @@ Identify the underlying reasons for missing or incomplete data by Investigating 
 Step 5 -Reporting and Recommendations:
 Document the findings and provide actionable insights by generating detailed reports summarizing the causes of data inconsistencies and offering recommendations to prevent future issues
 
-•	Tools and Technologies: AWS Glue,AWS Glue Logs,  AWS S3, AWS CloudWatch AWS Cloudwatch Logs, Data Lineage tracing. 
+#### •	Tools and Technologies: AWS Glue,AWS Glue Logs,  AWS S3, AWS CloudWatch AWS Cloudwatch Logs, Data Lineage tracing. 
 
-•	Deliverables:
+#### •	Deliverables:
 Root cause analysis report on reimbursement rate variations
 Recommendations for improving approval consistency
 
-•	Timeline: 2 week to investigate, followed by a week for reporting.
+#### •	Timeline: 2 week to investigate, followed by a week for reporting.
 
 Figure 12
 ![F 12 ](https://github.com/user-attachments/assets/112fa573-c5f2-4735-981d-e619aca8f074)
@@ -418,21 +450,21 @@ Figure 17
 ![F 17](https://github.com/user-attachments/assets/07b4c166-955a-46e9-af64-8b62e08c4653)
 
 
-4. Data Wrangling
+### 4. Data Wrangling
    
-•	Project Description:
+#### •	Project Description:
 The data wrangling phase focused on preparing and cleaning the professional development approval and reimbursement data, ensuring it was suitable for analysis.
 
-•	Project Title:
+#### •	Project Title:
 Data Wrangling for UCW Professional Development Approvals and Reimbursements Analysis
 
-•	Objective:
+#### •	Objective:
 To clean and organize professional development data, ensuring completeness, accuracy, and proper formatting for further analysis.
 
-•	Dataset:
+#### •	Dataset:
 Professional Development approval and reimbursement data for latest years, containing information on employee IDs, departments, activities, and financial reimbursements.
 
-•	Methodology:
+#### •	Methodology:
 
 Step 1- Data Ingestion: 
 The data ingestion process involves transferring data from an operational environment to an analytical environment by uploading it to landing folders within Amazon S3. The "Standard" storage class is chosen for its cost-effectiveness and ability to handle frequent daily access, ensuring both performance and reliability. (Figure 18) 
@@ -446,14 +478,14 @@ Additional structuring was performed with AWS DataBrew. Columns were renamed to 
 Step 4- Storing Cleaned data in Raw folders 
 This refinement process resulted in a cleaner, more reliable dataset, properly organized and ready for further analysis or processing and this data was stored in Raw folder.
 
-•	Tools and Technologies:
+#### •	Tools and Technologies:
 AWS Glue, AWS DataBrew.
 
-•	Deliverables:
+#### •	Deliverables:
 Cleaned dataset ready for analysis stored in Raw zone
 Documentation of data wrangling steps and decisions
 
-•	Timeline: 2 weeks, including validation and final clean data delivery.
+#### •	Timeline: 2 weeks, including validation and final clean data delivery.
 
 Figure 18
 ![F 18 ](https://github.com/user-attachments/assets/e36c7f28-ac95-42ef-a378-b3de4328cd76)
@@ -466,21 +498,21 @@ Figure 21
 ![F 21](https://github.com/user-attachments/assets/64b13666-5ff1-4f75-9803-b20326e7128d)
 
 
-5. Data Quality Control
+### 5. Data Quality Control
 
-•	Project Description:
+#### •	Project Description:
 This analysis ensures the data used for the project meets required quality standards, focusing on completeness, accuracy, and consistency.
 
-•	Project Title:
+#### •	Project Title:
 Data Quality Control for UCW Professional Development Approvals and Reimbursements
 
-•	Objective:
+#### •	Objective:
 To ensure that the professional development approval and reimbursement data is complete, accurate, and consistent.
 
-•	Dataset:
+#### •	Dataset:
 Professional Development approval and reimbursement data for latest years, containing information on employee IDs, departments, activities, and financial reimbursements.
 
-•	Methodology:
+#### •	Methodology:
 
 Step 1: Data Governance Setup
 Establish a framework for managing data quality and privacy. AWS Glue Studio is used as the ETL service. A "Trusted Zone" is created in Amazon S3 after the "Curated Zone" to store data that meets data quality and privacy rules. Figure (22) 
@@ -499,10 +531,10 @@ Data that passes both the privacy and quality checks is saved in a Trusted Zone 
 Step 5: ETL Job Execution and Scheduling
 Run the data governance job using AWS Glue 
 
-•	Deliverables:
+#### •	Deliverables:
 A final quality report, ensuring the data met the standards for completeness, accuracy, and consistency
 
-•	Timeline:
+#### •	Timeline:
 The data quality process was completed over two weeks, ensuring minimal disruption to the overall analysis.
 
 Figure 22
