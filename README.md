@@ -197,6 +197,7 @@ Figure 20
 ![F 20](https://github.com/user-attachments/assets/6fc089ab-7859-4598-b7b3-037746d2ff6f)
 
 Figure 21
+
 ![F 21](https://github.com/user-attachments/assets/2277a8be-5f90-4a48-b917-03e72cbde6af)
 
  
@@ -233,6 +234,7 @@ Run the data governance job using AWS Glue (Figure 25)
 •	Timeline: 1 week for rule application and validation.
 
 Figure 22
+
 ![F 22](https://github.com/user-attachments/assets/e2ec680f-ec1a-49d1-9ef8-4704292402ae)
 
 Figure 23
@@ -296,6 +298,7 @@ Figure a
 ![Figure  a  ](https://github.com/user-attachments/assets/ea04bfe6-3b6d-4d95-97f6-a082c13f1add)
 
 Figure 1
+
 ![F 1 ](https://github.com/user-attachments/assets/2ee16a3d-e763-48cd-8934-f93d7f568103)
 
 Figure 2- 
@@ -358,6 +361,7 @@ Figure 10
 ![F 10](https://github.com/user-attachments/assets/1e0d0968-e3c2-4846-87ab-9404bd166c9a)
 
 Figure 11
+
 ![F 11](https://github.com/user-attachments/assets/736db6ed-8b07-43f0-b172-da2562f1fe9b)
 
 
@@ -457,6 +461,7 @@ Figure 19
 ![F 19 ](https://github.com/user-attachments/assets/0cf60413-6947-44cc-9807-8ca4baf0373b)
 
 Figure 21
+
 ![F 21](https://github.com/user-attachments/assets/64b13666-5ff1-4f75-9803-b20326e7128d)
 
 
@@ -500,6 +505,7 @@ A final quality report, ensuring the data met the standards for completeness, ac
 The data quality process was completed over two weeks, ensuring minimal disruption to the overall analysis.
 
 Figure 22
+
 ![F 22](https://github.com/user-attachments/assets/f23e30ee-3b4c-4bb5-b43c-fe853616fcc7)
 
 Figure 23
