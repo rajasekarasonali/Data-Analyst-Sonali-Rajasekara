@@ -1,6 +1,7 @@
 # Data-Analyst-Sonali-Rajasekara
 Project 1- Water Quality project
 
+
 1. Exploratory Data Analysis (EDA)
 
 •	Project Description: Exploring and understanding the underlying patterns in water quality data pertaining to Vancouver City collected from various sensors.
@@ -52,6 +53,7 @@ Figure 4
 Figure 4.1
 ![F 4 1](https://github.com/user-attachments/assets/af1c2e00-f87b-4fe9-9aca-3be4e8f228f7)
 
+
 2. Descriptive Analysis
 
 •	Project Description: Exploring and understanding the underlying patterns in water quality data pertaining to Vancouver City collected from various sensors.
@@ -99,7 +101,9 @@ Figure 10
 ![F 10](https://github.com/user-attachments/assets/4e303733-2ee2-47bb-bc95-46ceacd05871)
 
 Figure 11
+
 ![F 11](https://github.com/user-attachments/assets/226f8587-60a3-47f8-8822-4c4f9fe39086)
+
  
 3. Diagnostic Analysis
 
@@ -151,6 +155,7 @@ Figure 16
 
 Figure 17
 ![F 17](https://github.com/user-attachments/assets/5a90e7e6-a251-4584-b6d3-68fcbf978ba7)
+
  
 4. Data Wrangling
    
@@ -193,6 +198,7 @@ Figure 20
 
 Figure 21
 ![F 21](https://github.com/user-attachments/assets/2277a8be-5f90-4a48-b917-03e72cbde6af)
+
  
 5. Data Quality Control
 
@@ -241,6 +247,7 @@ Figure 25
 ..........................................................................
 
 Project 2- UCW project for HR departments (Professional development )
+
 
 1. Exploratory Data Analysis
    
@@ -300,6 +307,7 @@ Figure 4
 Figure 4.1
  ![F 4 1](https://github.com/user-attachments/assets/0d9e8d93-a779-4e23-9f0c-857ad962c9a3)
 
+
 2. Descriptive Analysis
 
 •	Project Description:
@@ -352,6 +360,7 @@ Figure 10
 Figure 11
 ![F 11](https://github.com/user-attachments/assets/736db6ed-8b07-43f0-b172-da2562f1fe9b)
 
+
 3. Diagnostic Analysis
 
 •	Project Description:
@@ -403,6 +412,7 @@ Figure 14
 Figure 17
 ![F 17](https://github.com/user-attachments/assets/07b4c166-955a-46e9-af64-8b62e08c4653)
 
+
 4. Data Wrangling
    
 •	Project Description:
@@ -448,6 +458,7 @@ Figure 19
 
 Figure 21
 ![F 21](https://github.com/user-attachments/assets/64b13666-5ff1-4f75-9803-b20326e7128d)
+
 
 5. Data Quality Control
 
