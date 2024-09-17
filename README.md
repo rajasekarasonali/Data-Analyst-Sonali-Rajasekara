@@ -41,14 +41,17 @@ Figure 1
 ![F 1](https://github.com/user-attachments/assets/9f2d3761-5353-41ed-9e5f-2927aa445f2d)
 
 Figure 2- 
-
+![F 2](https://github.com/user-attachments/assets/a9916883-82ca-4ad3-85a2-e94006adf387)
 
 Figure 3- 
+![F 3](https://github.com/user-attachments/assets/b9007600-299e-499b-9772-1e401e52d33b)
 
 Figure 4 
+![F 4](https://github.com/user-attachments/assets/7d219bf5-847a-414f-8a42-6e649c50cf9d)
 
 Figure 4.1
- 
+![F 4 1](https://github.com/user-attachments/assets/af1c2e00-f87b-4fe9-9aca-3be4e8f228f7)
+
 2. Descriptive Analysis
 
 •	Project Description: Exploring and understanding the underlying patterns in water quality data pertaining to Vancouver City collected from various sensors.
@@ -78,18 +81,25 @@ Step 4- Public Publishing:
 •	Deliverables: Summary tables, charts representing the average and range of water quality variables.
 
 Figure 5
+![F 5](https://github.com/user-attachments/assets/99e77062-9469-400c-aa38-41a8534fee48)
 
 Figure 6
+![F 6](https://github.com/user-attachments/assets/070dd595-8098-41b9-bf50-5735d88d0e2f)
 
 Figure 7
+![F 7](https://github.com/user-attachments/assets/131ee393-c9a7-46b5-94ed-704c129894de)
 
 Figure 8
+![F 8](https://github.com/user-attachments/assets/229cd6c9-793c-4cb9-adb3-112c9c5c974e)
 
 Figure 9
+![F 9](https://github.com/user-attachments/assets/a13e0abe-35a1-4eeb-954e-ba36dddf1e5e)
 
 Figure 10
+![F 10](https://github.com/user-attachments/assets/4e303733-2ee2-47bb-bc95-46ceacd05871)
 
 Figure 11
+![F 11](https://github.com/user-attachments/assets/226f8587-60a3-47f8-8822-4c4f9fe39086)
  
 3. Diagnostic Analysis
 
@@ -125,16 +135,22 @@ Document the findings and provide actionable insights by generating detailed rep
 •	Timeline: 1 week to investigate, followed by a week for reporting.
 
 Figure 12
+![F 12](https://github.com/user-attachments/assets/98e627ee-94fb-4f7e-8607-d287a2a79fad)
 
 Figure 13
+![F 13](https://github.com/user-attachments/assets/38e81df4-1ad5-4832-92ae-61c626a26aba)
 
 Figure 14
+![F 14](https://github.com/user-attachments/assets/06a389ff-bf4b-4f3e-90f3-1a0df0f979a0)
 
 Figure 15
+![F 15](https://github.com/user-attachments/assets/f5e66234-ce92-4c94-9a6a-357d0e23e0a1)
 
 Figure 16
+![F 16](https://github.com/user-attachments/assets/eb050488-94b6-4b42-b658-d9e111d5f281)
 
 Figure 17
+![F 17](https://github.com/user-attachments/assets/5a90e7e6-a251-4584-b6d3-68fcbf978ba7)
  
 4. Data Wrangling
    
@@ -167,12 +183,16 @@ This refinement process resulted in a cleaner, more reliable dataset, properly o
 •	Timeline: 2 weeks, including validation and final clean data delivery.
 
 Figure 18
+![F 18](https://github.com/user-attachments/assets/14892ecb-7c8a-4c18-aebe-b72281bc04a0)
 
 Figure 19 
+![F 19](https://github.com/user-attachments/assets/f49bac0d-d436-4a7f-84f5-cd75b3bd01b4)
 
 Figure 20
+![F 20](https://github.com/user-attachments/assets/6fc089ab-7859-4598-b7b3-037746d2ff6f)
 
 Figure 21
+![F 21](https://github.com/user-attachments/assets/2277a8be-5f90-4a48-b917-03e72cbde6af)
  
 5. Data Quality Control
 
@@ -207,12 +227,16 @@ Run the data governance job using AWS Glue (Figure 25)
 •	Timeline: 1 week for rule application and validation.
 
 Figure 22
+![F 22](https://github.com/user-attachments/assets/e2ec680f-ec1a-49d1-9ef8-4704292402ae)
 
 Figure 23
+![F 23](https://github.com/user-attachments/assets/5cf83682-ec1c-4880-a6ef-f5134f25fa41)
 
 Figure 24
+![F 24](https://github.com/user-attachments/assets/26a48662-6096-4b51-afef-270dbfefd8ce)
 
 Figure 25
+![F 25](https://github.com/user-attachments/assets/560b4f60-fc20-48e2-a1c7-8fb328a665f1)
 
 ..........................................................................
 
@@ -262,15 +286,19 @@ Data visualizations showing trends in approvals and reimbursements
 Summary report identifying key patterns in the data
 
 Figure a
+![Figure  a  ](https://github.com/user-attachments/assets/ea04bfe6-3b6d-4d95-97f6-a082c13f1add)
 
 Figure 1
+![F 1 ](https://github.com/user-attachments/assets/2ee16a3d-e763-48cd-8934-f93d7f568103)
 
 Figure 2- 
+![F 2 ](https://github.com/user-attachments/assets/d512d003-d567-466d-a908-0257c853a23f)
 
 Figure 4 
+![F 4](https://github.com/user-attachments/assets/1d8f4405-0082-446a-a86b-b484c2776a2d)
 
 Figure 4.1
- 
+ ![F 4 1](https://github.com/user-attachments/assets/0d9e8d93-a779-4e23-9f0c-857ad962c9a3)
 
 2. Descriptive Analysis
 
@@ -307,16 +335,22 @@ A detailed report containing summary statistics
 Visual dashboards showcasing the breakdown of reimbursements and approvals
 
 Figure 5
+![F 5 ](https://github.com/user-attachments/assets/dc213c56-4a2c-4c2e-a4f5-fd3882846209)
 
 Figure 5.1
+![F 5 1 ](https://github.com/user-attachments/assets/06e0b902-30dd-4ff8-8bd9-cf0d421b0213)
 
 Figure 8
+![F 8 ](https://github.com/user-attachments/assets/d31206f2-1e5e-47d2-8863-5ce046316cfc)
 
 Figure 9
+![F 9 ](https://github.com/user-attachments/assets/0ef21d05-6f00-4263-a966-ee10888480c4)
 
 Figure 10
+![F 10](https://github.com/user-attachments/assets/1e0d0968-e3c2-4846-87ab-9404bd166c9a)
 
 Figure 11
+![F 11](https://github.com/user-attachments/assets/736db6ed-8b07-43f0-b172-da2562f1fe9b)
 
 3. Diagnostic Analysis
 
@@ -358,12 +392,16 @@ Recommendations for improving approval consistency
 •	Timeline: 2 week to investigate, followed by a week for reporting.
 
 Figure 12
+![F 12 ](https://github.com/user-attachments/assets/112fa573-c5f2-4735-981d-e619aca8f074)
 
 Figure 13
+![F 13 ](https://github.com/user-attachments/assets/f1d3b3bc-3981-437b-9c90-65e9e6d6e768)
 
 Figure 14
+![F 14](https://github.com/user-attachments/assets/723407f0-7550-4ebe-a3d0-f447de6b25da)
 
 Figure 17
+![F 17](https://github.com/user-attachments/assets/07b4c166-955a-46e9-af64-8b62e08c4653)
 
 4. Data Wrangling
    
@@ -403,12 +441,13 @@ Documentation of data wrangling steps and decisions
 •	Timeline: 2 weeks, including validation and final clean data delivery.
 
 Figure 18
+![F 18 ](https://github.com/user-attachments/assets/e36c7f28-ac95-42ef-a378-b3de4328cd76)
 
 Figure 19 
-
-Figure 20
+![F 19 ](https://github.com/user-attachments/assets/0cf60413-6947-44cc-9807-8ca4baf0373b)
 
 Figure 21
+![F 21](https://github.com/user-attachments/assets/64b13666-5ff1-4f75-9803-b20326e7128d)
 
 5. Data Quality Control
 
@@ -450,9 +489,10 @@ A final quality report, ensuring the data met the standards for completeness, ac
 The data quality process was completed over two weeks, ensuring minimal disruption to the overall analysis.
 
 Figure 22
+![F 22](https://github.com/user-attachments/assets/f23e30ee-3b4c-4bb5-b43c-fe853616fcc7)
 
 Figure 23
-
+![F 23 ](https://github.com/user-attachments/assets/cec4f9bc-e987-4fd4-ab2c-3b345aeda5a9)
 
 
  
